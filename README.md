@@ -2,7 +2,7 @@
 Change date of a range of pictures selected in OS X Photos. Always wanted to change the date of pictures without shifting the times. This application allows you to easily change the date of a range of pictures in OS X Photos. It sets the time of the date to 00:00 GMT and increments a minute for every selected pictures, this is done to maintian the same order as selected.
 
 ## Download
-The application can be downloaded [here](http://ritterfeld.com/apps/release/PhotosDateChanger.1.0.zip "download link release")
+The application can be downloaded [here](http://ritterfeld.com/apps/release/PhotosDateChanger.1.0.zip "download link PhotosDateChanger")
 
 
 ### Example
